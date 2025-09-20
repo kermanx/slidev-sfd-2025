@@ -411,3 +411,9 @@ layout: end
 ---
 
 谢谢大家！
+
+<div font-mono text-sm op-70>
+
+https://kermanx.com/slidev-sfd-2025/
+
+</div>
